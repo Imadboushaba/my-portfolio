@@ -155,20 +155,3 @@ Ready to build something extraordinary? Let's connect and discuss how my experti
 
 ---
 
-## 📎 Extras: Personal Branding Kit
-
-### Professional Bio (Twitter/X)
-
-> Full Stack Developer 💻 | Cloud & Architecture (AWS/Node/Laravel) ☁️  | Building scalable digital solutions.
-
-### Elevator Pitch (30 Sec)
-
-> "Hi, I'm Imad. I'm a Full Stack Developer and Software Engineer with a background as a Product Owner. I specialize in bridging the gap between complex business requirements and scalable technical solutions using modern frameworks like Laravel, React, and AWS. Over my career, I've led cross-functional teams to improve the profitability and efficiency of IT services by ensuring that every line of code serves a clear strategic purpose."
-
-### Email Signature
-
-**Imad Eddine Boushaba** *Senior Full Stack Developer & Software Engineer* 📞 +212 6 11 64 23 95 ✉️ imadeddineboushaba@gmail.com 🔗 [LinkedIn Profile](https://www.google.com/search?q=https://www.linkedin.com/in/imadeddine-boushaba) 
-
-### One-Line Personal Branding Statement
-
-> "Architecting scalable software solutions where advanced engineering meets strategic business vision."
