@@ -89,38 +89,36 @@ I specialize in designing scalable systems , streamlining IT services for maximu
 ## 🚀 Featured Projects
 
 ### 🚗 Car Rental & Fleet Management Platform
-> [cite_start]A comprehensive web platform bridging car rental agencies and customers for seamless browsing, booking, and payment processing[cite: 58].
+> A comprehensive web platform bridging car rental agencies and customers for seamless browsing, booking, and payment processing.
 
-* [cite_start]**The Problem:** The rental market required a unified system to connect service providers with users while managing complex booking logistics and payments[cite: 58].
-* [cite_start]**The Solution:** Engineered a full-stack architecture with multi-level dashboards catering to Admins, Agency Owners, and Customers, alongside a dedicated API to power a mobile application[cite: 58].
-* [cite_start]**Key Features:** Secure authentication, real-time inventory browsing, dynamic pricing, and comprehensive booking oversight[cite: 58].
-* [cite_start]**Tech Stack:** `Laravel` `Livewire` `JWT-Auth` `Tailwind CSS` `MySQL` `jQuery` [cite: 58]
+* **The Problem:** The rental market required a unified system to connect service providers with users while managing complex booking logistics and payments.
+* **The Solution:** Engineered a full-stack architecture with multi-level dashboards catering to Admins, Agency Owners, and Customers, alongside a dedicated API to power a mobile application.
+* **Key Features:** Secure authentication, real-time inventory browsing, dynamic pricing, and comprehensive booking oversight.
+* **Tech Stack:** `Laravel` `Livewire` `JWT-Auth` `Tailwind CSS` `MySQL` `jQuery` 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ---
 
 ### 🛍️ Enterprise Retail ERP (Clothing Franchise)
-> [cite_start]An integrated ERP dashboard tailored for a retail franchise to manage daily operations, logistics, and centralized accounting[cite: 61, 63].
+> An integrated ERP dashboard tailored for a retail franchise to manage daily operations, logistics, and centralized accounting.
 
-* [cite_start]**The Problem:** The franchise needed a unified system to handle complex direct and wholesale sales, inventory discrepancies, and daily accounting ledgers across multiple branches[cite: 61, 63].
-* [cite_start]**The Solution:** Developed a robust, API-driven backend and interactive frontend to consolidate multi-branch data, track supplier purchases, and automate financial reporting[cite: 61, 63, 64].
-* [cite_start]**Key Features:** Multi-branch inventory tracking, dynamic discount/campaign management, automated tax calculation, and comprehensive financial ledger management (receipts/disbursements)[cite: 61, 63, 64].
-* [cite_start]**Tech Stack:** `Laravel 10` `Livewire` `JWT-Auth` `Tailwind CSS` `MySQL` [cite: 64]
+* **The Problem:** The franchise needed a unified system to handle complex direct and wholesale sales, inventory discrepancies, and daily accounting ledgers across multiple branches.
+* **The Solution:** Developed a robust, API-driven backend and interactive frontend to consolidate multi-branch data, track supplier purchases, and automate financial reporting.
+* **Key Features:** Multi-branch inventory tracking, dynamic discount/campaign management, automated tax calculation, and comprehensive financial ledger management (receipts/disbursements).
+* **Tech Stack:** `Laravel 10` `Livewire` `JWT-Auth` `Tailwind CSS` `MySQL` 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ---
 
 ### 📦 E-Commerce Merchant Operations Hub
-> [cite_start]A B2B platform providing end-to-end operational solutions and fulfillment routing for e-commerce store owners[cite: 67].
+> A B2B platform providing end-to-end operational solutions and fulfillment routing for e-commerce store owners.
 
-* [cite_start]**The Problem:** E-commerce merchants lacked a centralized tool to manage the full lifecycle of a product from supplier sourcing to final delivery and potential return[cite: 67].
-* [cite_start]**The Solution:** Designed the backend logic and API infrastructure to integrate supplier data, manage warehouse inventory, and streamline shipping and packaging workflows[cite: 67].
-* [cite_start]**Key Features:** Automated fulfillment routing, supplier integration, scalable database architecture, and a dedicated returns management module[cite: 67].
-* [cite_start]**Tech Stack:** `Laravel` `Vue.js` `JWT-Auth` `Tailwind CSS` `MySQL` [cite: 67]
+* **The Problem:** E-commerce merchants lacked a centralized tool to manage the full lifecycle of a product from supplier sourcing to final delivery and potential return
+* **The Solution:** Designed the backend logic and API infrastructure to integrate supplier data, manage warehouse inventory, and streamline shipping and packaging workflows.
+* **Key Features:** Automated fulfillment routing, supplier integration, scalable database architecture, and a dedicated returns management module.
+* **Tech Stack:** `Laravel` `Vue.js` `JWT-Auth` `Tailwind CSS` `MySQL` 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
 
 ---
 
