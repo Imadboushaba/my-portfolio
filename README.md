@@ -1,6 +1,6 @@
 👨‍💻 Imad Eddine Boushaba 
 
-Senior Full Stack Developer  | Software Engineer | Former Product Owner 
+Full Stack Developer | Laravel, Vue.js, Node js | Building Scalable Web Apps
 
 
 
@@ -83,31 +83,17 @@ I specialize in designing scalable systems , streamlining IT services for maximu
 
 ---
 
+
 ## 🎓 Education
 
-| Degree | Institution | Year |
-| --- | --- | --- |
-| <br>**Engineering Degree, Computer Science and Management** 
+[cite_start]🎓 **Engineering Degree, Computer Science and Management** [cite: 57]  
+[cite_start]🏛️ *Ecole des Hautes Etudes d'Ingénierie, Morocco* [cite: 57] | [cite_start]📅 2011 - 2016 [cite: 57]
 
- | Ecole des Hautes Etudes d'Ingénierie, Morocco 
+[cite_start]🎓 **Associate's Degree in Economic Sciences** [cite: 57]  
+[cite_start]🏛️ *Faculté des Sciences Juridiques Economiques et Sociales, Morocco* [cite: 57] | [cite_start]📅 2010 - 2013 [cite: 57]
 
- | 2011 - 2016 
-
- |
-| <br>**Associate's Degree in Economic Sciences** 
-
- | Faculté des Sciences Juridiques Economiques et Sociales, Morocco 
-
- | 2010 - 2013 
-
- |
-| <br>**Scientific Baccalaureate** 
-
- | Lycée Omar ibn Abdelaziz Moderne, Morocco 
-
- | 2009 - 2010 
-
- |
+[cite_start]🎓 **Scientific Baccalaureate** [cite: 57]  
+[cite_start]🏛️ *Lycée Omar ibn Abdelaziz Moderne, Morocco* [cite: 57] | [cite_start]📅 2009 - 2010 [cite: 57]
 
 ---
 
