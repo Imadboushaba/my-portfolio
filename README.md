@@ -123,48 +123,47 @@ I specialize in designing scalable systems , streamlining IT services for maximu
 ---
 
 ### 🏢 Real Estate Property Management System
-> [cite_start]A centralized platform designed to streamline property leasing, payment tracking, and stakeholder management[cite: 64].
+> A centralized platform designed to streamline property leasing, payment tracking, and stakeholder management.
 
-* [cite_start]**The Problem:** Managing multiple properties, tracking tenant arrears, and calculating owner ROI required a unified, automated administrative dashboard[cite: 64].
-* [cite_start]**The Solution:** Built the core business logic to handle varying user roles (Owner, Tenant, Admin), property lifecycles, and complex financial distributions[cite: 64, 67].
-* [cite_start]**Key Features:** Lease scheduling, automated tenant payment tracking, operational expense management, and dynamic ROI calculation for property owners[cite: 64, 67].
-* [cite_start]**Tech Stack:** `Laravel` `Vue.js` `Tailwind CSS` `MySQL` [cite: 67]
+* **The Problem:** Managing multiple properties, tracking tenant arrears, and calculating owner ROI required a unified, automated administrative dashboard.
+* **The Solution:** Built the core business logic to handle varying user roles (Owner, Tenant, Admin), property lifecycles, and complex financial distributions.
+* **Key Features:** Lease scheduling, automated tenant payment tracking, operational expense management, and dynamic ROI calculation for property owners.
+* **Tech Stack:** `Laravel` `Vue.js` `Tailwind CSS` `MySQL` 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
 
 ---
 
 ### 📈 E-Marketing & Logistics Management Dashboard
-> [cite_start]A unified operational dashboard orchestrating workflows across lead generation, call centers, and shipping departments[cite: 58].
+> A unified operational dashboard orchestrating workflows across lead generation, call centers, and shipping departments.
 
-* [cite_start]**The Problem:** Disconnected departments within the marketing agency caused friction between lead acquisition, order confirmation, and final delivery[cite: 58].
-* [cite_start]**The Solution:** Developed a centralized system to track the complete customer journey, allowing the call center and shipping teams to operate from a single source of truth[cite: 58].
-* [cite_start]**Key Features:** Lead lifecycle tracking, call-center order confirmation system, and end-to-end shipment status monitoring[cite: 58].
-* [cite_start]**Tech Stack:** `Laravel 10` `jQuery` `Tailwind CSS` `MySQL` [cite: 58]
+* **The Problem:** Disconnected departments within the marketing agency caused friction between lead acquisition, order confirmation, and final delivery
+* **The Solution:** Developed a centralized system to track the complete customer journey, allowing the call center and shipping teams to operate from a single source of truth.
+* **Key Features:** Lead lifecycle tracking, call-center order confirmation system, and end-to-end shipment status monitoring.
+* **Tech Stack:** `Laravel 10` `jQuery` `Tailwind CSS` `MySQL` 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ---
 
 ### 🎨 Advertising Agency Workflow Engine
-> [cite_start]An operational dashboard for a graphic design and advertising agency to manage the entire project lifecycle from concept to delivery[cite: 61].
+> An operational dashboard for a graphic design and advertising agency to manage the entire project lifecycle from concept to delivery.
 
-* [cite_start]**The Problem:** The agency needed a structured way to delegate design tasks, track printing progress, and manage client billing within a single platform[cite: 61].
-* [cite_start]**The Solution:** Created an end-to-end order management system that tracks the status of a project as it moves through design, printing, and final shipping phases[cite: 61].
-* [cite_start]**Key Features:** Custom order specifications, designer task delegation, automated invoicing, and real-time financial and productivity reporting[cite: 61].
-* [cite_start]**Tech Stack:** `Laravel 10` `jQuery` `Tailwind CSS` `MySQL` [cite: 61]
+* **The Problem:** The agency needed a structured way to delegate design tasks, track printing progress, and manage client billing within a single platform.
+* **The Solution:** Created an end-to-end order management system that tracks the status of a project as it moves through design, printing, and final shipping phases
+* **Key Features:** Custom order specifications, designer task delegation, automated invoicing, and real-time financial and productivity reporting
+* **Tech Stack:** `Laravel 10` `jQuery` `Tailwind CSS` `MySQL` 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
 
 ---
 
 ### 🔧 Automotive Services Booking Platform
-> [cite_start]A digital booking solution for automotive care centers, enabling users to schedule specialized services[cite: 67, 73].
+> A digital booking solution for automotive care centers, enabling users to schedule specialized services.
 
-* [cite_start]**The Problem:** Auto care centers lacked a streamlined digital interface for clients to book specific services (e.g., thermal insulation, detailing) at precise times[cite: 67, 73].
-* [cite_start]**The Solution:** Engineered backend modules to handle complex scheduling logic and developed a flexible payment infrastructure[cite: 73, 76].
-* [cite_start]**Key Features:** Precision date/time scheduling, integrated payment gateways supporting both full and partial deposit payments, and dedicated customer/admin portals[cite: 73, 74].
-* [cite_start]**Tech Stack:** `Laravel` `Backend Architecture` [cite: 76, 77]
+* **The Problem:** Auto care centers lacked a streamlined digital interface for clients to book specific services (e.g., thermal insulation, detailing) at precise times.
+* **The Solution:** Engineered backend modules to handle complex scheduling logic and developed a flexible payment infrastructure.
+* **Key Features:** Precision date/time scheduling, integrated payment gateways supporting both full and partial deposit payments, and dedicated customer/admin portals.
+* **Tech Stack:** `Laravel` `Backend Architecture` 
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
