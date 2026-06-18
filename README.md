@@ -46,38 +46,30 @@ I specialize in designing scalable systems , streamlining IT services for maximu
 
 ## 💼 Experience Timeline
 
-* 
-**End-to-End Development:** Engineered and maintained full-stack applications , translating client requirements into scalable system designs.
+* End-to-End Development:** Engineered and maintained full-stack applications , translating client requirements into scalable system designs.
 
 
-* 
-**Quality Assurance:** Implemented rigorous testing protocols to ensure system stability and performance.
+* Quality Assurance:** Implemented rigorous testing protocols to ensure system stability and performance.
 
 
-* 
-**Stakeholder Collaboration:** Maintained clear communication channels with cross-functional teams to ensure alignment on project deliverables.
+* Stakeholder Collaboration:** Maintained clear communication channels with cross-functional teams to ensure alignment on project deliverables.
 
 
 
-* 
-**System Architecture:** Designed and developed robust backend software applications tailored to telecom industry needs.
+* System Architecture:** Designed and developed robust backend software applications tailored to telecom industry needs.
 
 
-* 
-**Optimization & Maintenance:** Maintained legacy systems, actively debugging and updating software to improve operational efficiency.
+* Optimization & Maintenance:** Maintained legacy systems, actively debugging and updating software to improve operational efficiency.
 
 
-* 
-**Engineering Standards:** Participated in code reviews and authored comprehensive technical documentation while collaborating closely with other engineers.
+* Engineering Standards:** Participated in code reviews and authored comprehensive technical documentation while collaborating closely with other engineers.
 
 
 
-* 
-**Product Strategy:** Analyzed deep customer needs to establish precise, actionable technical specification sheets.
+* Product Strategy:** Analyzed deep customer needs to establish precise, actionable technical specification sheets.
 
 
-* 
-**Lifecycle Management:** Ensured continuous project follow-up , quality control over the development cycle , and monitored the long-term evolution of the product.
+* Lifecycle Management:** Ensured continuous project follow-up , quality control over the development cycle , and monitored the long-term evolution of the product.
 
 
 
@@ -88,9 +80,9 @@ I specialize in designing scalable systems , streamlining IT services for maximu
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year |
 | :--- | :--- | :--- |
-| [cite_start]**Engineering Degree, Computer Science and Management** [cite: 57] | [cite_start]Ecole des Hautes Etudes d'Ingénierie, Morocco [cite: 57] | [cite_start]2011 - 2016 [cite: 57] |
-| [cite_start]**Associate's Degree in Economic Sciences** [cite: 57] | [cite_start]Faculté des Sciences Juridiques Economiques et Sociales, Morocco [cite: 57] | [cite_start]2010 - 2013 [cite: 57] |
-| [cite_start]**Scientific Baccalaureate** [cite: 57] | [cite_start]Lycée Omar ibn Abdelaziz Moderne, Morocco [cite: 57] | [cite_start]2009 - 2010 [cite: 57] |
+| **Engineering Degree, Computer Science and Management**  | Ecole des Hautes Etudes d'Ingénierie, Morocco  | [2011 - 2016  |
+| **Associate's Degree in Economic Sciences**  | Faculté des Sciences Juridiques Economiques et Sociales, Morocco  | 2010 - 2013  |
+| **Scientific Baccalaureate**  | Lycée Omar ibn Abdelaziz Moderne, Morocco  | 2009 - 2010  |
 
 ---
 
@@ -167,7 +159,7 @@ Ready to build something extraordinary? Let's connect and discuss how my experti
 
 ### Professional Bio (Twitter/X)
 
-> Full Stack Developer 💻 | Cloud & Architecture (AWS/Node/Laravel) ☁️ | Former Product Owner ensuring code meets business logic 🚀 | Building scalable digital solutions.
+> Full Stack Developer 💻 | Cloud & Architecture (AWS/Node/Laravel) ☁️  | Building scalable digital solutions.
 
 ### Elevator Pitch (30 Sec)
 
