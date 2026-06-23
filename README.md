@@ -165,7 +165,7 @@ I specialize in designing scalable systems , streamlining IT services for maximu
 * **Key Features:** Precision date/time scheduling, integrated payment gateways supporting both full and partial deposit payments, and dedicated customer/admin portals.
 * **Tech Stack:** `Laravel` `Backend Architecture` 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) [![Source Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
 
 ## 🏆 Achievements & Leadership
 
@@ -204,16 +204,7 @@ I offer specialized consulting and development services designed to scale your b
 
 ---
 
-## 📊 GitHub Statistics
 
-*(Note: Data will populate dynamically when hosted on GitHub)*
-
----
-
-## 💬 Testimonials
-
-> *"Imad is an exceptional Full Stack Developer who not only writes incredibly clean code but understands the underlying business needs. His background as a Product Owner makes him a rare asset in bridging the gap between technical requirements and strategic goals."*
-> — **Placeholder for Client/Colleague Testimonial** ---
 
 ## 📬 Contact & Connect
 
